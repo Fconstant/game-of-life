@@ -76,37 +76,37 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SIM-01 | | Pending |
-| SIM-02 | | Pending |
-| SIM-03 | | Pending |
-| SIM-04 | | Pending |
-| WS-01 | | Pending |
-| WS-02 | | Pending |
-| WS-03 | | Pending |
-| WS-04 | | Pending |
-| WS-05 | | Pending |
-| WS-06 | | Pending |
-| UI-01 | | Pending |
-| UI-02 | | Pending |
-| UI-03 | | Pending |
-| UI-04 | | Pending |
-| UI-05 | | Pending |
-| HB-01 | | Pending |
-| HB-02 | | Pending |
-| HB-03 | | Pending |
-| LLM-01 | | Pending |
-| LLM-02 | | Pending |
-| LLM-03 | | Pending |
-| LLM-04 | | Pending |
-| LLM-05 | | Pending |
-| LLM-06 | | Pending |
-| LLM-07 | | Pending |
-| LLM-08 | | Pending |
+| SIM-01 | Phase 1 | Pending |
+| SIM-02 | Phase 1 | Pending |
+| SIM-03 | Phase 1 | Pending |
+| SIM-04 | Phase 1 | Pending |
+| WS-01 | Phase 2 | Pending |
+| WS-02 | Phase 2 | Pending |
+| WS-03 | Phase 2 | Pending |
+| WS-04 | Phase 2 | Pending |
+| WS-05 | Phase 2 | Pending |
+| WS-06 | Phase 2 | Pending |
+| UI-01 | Phase 3 | Pending |
+| UI-02 | Phase 3 | Pending |
+| UI-03 | Phase 3 | Pending |
+| UI-04 | Phase 3 | Pending |
+| UI-05 | Phase 3 | Pending |
+| HB-01 | Phase 4 | Pending |
+| HB-02 | Phase 4 | Pending |
+| HB-03 | Phase 4 | Pending |
+| LLM-01 | Phase 5 | Pending |
+| LLM-02 | Phase 5 | Pending |
+| LLM-03 | Phase 5 | Pending |
+| LLM-04 | Phase 5 | Pending |
+| LLM-05 | Phase 5 | Pending |
+| LLM-06 | Phase 5 | Pending |
+| LLM-07 | Phase 5 | Pending |
+| LLM-08 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 26 total
-- Mapped to phases: 0
-- Unmapped: 26 ⚠️
+- Mapped to phases: 26
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2025-07-24*
