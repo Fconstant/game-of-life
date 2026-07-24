@@ -36,3 +36,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 # gsd-core
 .*/gsd-core/
 .*/**/lib/
+.*/.gsd-profile
+.*/gsd-file-manifest.json
+.*/gsd-install-state.json
