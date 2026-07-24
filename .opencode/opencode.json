@@ -1,13 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "permission": {
-    "read": {
-      "/home/diplo/projects/game-of-life/.opencode/gsd-core/*": "allow"
-    },
-    "external_directory": {
-      "/home/diplo/projects/game-of-life/.opencode/gsd-core/*": "allow"
-    }
-  },
   "mcp": {
     "gsd": {
       "type": "local",
@@ -19,6 +11,14 @@
         "gsd-mcp-server"
       ],
       "enabled": true
+    }
+  },
+  "permission": {
+    "read": {
+      "/home/diplo/projects/game-of-life/.opencode/gsd-core/*": "allow"
+    },
+    "external_directory": {
+      "/home/diplo/projects/game-of-life/.opencode/gsd-core/*": "allow"
     }
   }
 }
